@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hey there, I'm Siddhant<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
 
-<!--
-**SiddhantPawar03/SiddhantPawar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Flutter Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Interests:</h3>
+
+- Dapp Development 👩‍💻
+- Data Structures And Algorithms 💻
+<br><br>
+
+  
+## &#x1f4c8; My GitHub Stats🎯
+ 
+<h3 align="left">Profile Views: 🧐</h3>
+  
+![Profile views](https://gpvc.arturio.dev/SiddhantPawar03)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantPawar03&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SiddhantPawar03&theme=chartreuse-dark&no-frame=false" /></p>
+</details>
+
+  
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiddhantPawar03&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhantPawar03&theme=chartreuse-dark" />
+</p>  
+
+
+  
+
+-----
