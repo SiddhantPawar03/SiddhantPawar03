@@ -6,7 +6,6 @@
 
 <h3 align="left">Interests:</h3>
 
-- Dapp Development 👩‍💻
 - Data Structures And Algorithms 💻
 <br><br>
 
