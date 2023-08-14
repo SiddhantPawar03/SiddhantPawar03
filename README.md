@@ -7,6 +7,8 @@
 <h3 align="left">Interests:</h3>
 
 - Data Structures And Algorithms 💻
+- Javascript
+- Backend Development
 <br><br>
 
   
