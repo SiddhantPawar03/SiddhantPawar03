@@ -1,14 +1,16 @@
 <h1 align="center">Hey there, I'm Siddhant<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
 
-<h3 align="center">Machine Learning Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Full-Stack Developer, MERN/MEAN Stack, Machine Learning Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 
 
 <h3 align="left">Interests:</h3>
 
 - Data Structures And Algorithms 💻
-- Javascript
 - Backend Development
+- Javascript
+- Typescript
+
 <br><br>
 
   
