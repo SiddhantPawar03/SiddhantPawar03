@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Siddhant<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
+<h1 align="center">Hey there, I'm Siddhant<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">Full-Stack Developer, MERN/MEAN Stack, Machine Learning Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
@@ -9,7 +9,7 @@
 - Javascript
 - Typescript
 
-<br><br
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-pawar-398a05201) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SiddhantP03) 
